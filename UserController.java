@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class UserController {
+  
 //	@Autowired
 //	private UserRepo repo;
 //	
@@ -20,6 +21,7 @@ public class UserController {
 //{
 //		try {
 //		repo.save(user);
+  
 //		}
 //		catch(Exception e){
 //			return new ResponseEntity<String>("Not Inserted",HttpStatus.INTERNAL_SERVER_ERROR);
